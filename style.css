@@ -1,0 +1,14 @@
+#imrec{
+    background-color: #59C1BD;
+    padding: 10px;
+    color: #0D4C92;
+}
+#camera,#result{
+    border:5px dotted #A0E4CB;
+    width:325px;
+    height:300px;
+}
+body{
+    background-color: #CFF5E7;
+    color: #0D4C92;
+}
